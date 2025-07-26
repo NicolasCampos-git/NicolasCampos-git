@@ -5,7 +5,7 @@ Soy Nicolás Campos, desarrollador backend y entusiasta de Linux, estudiante de 
 ## ☕ Sobre mí
 
 ✨ **Creando bugs desde...**  
-Programando desde hace años, pero de manera constante desde 2023. Evolucioné de scripts simples a desarrollo backend robusto con TypeScript, Node.js y bases de datos.  
+Programando desde hace años, pero de manera constante desde 2023. Evolucioné de scripts simples a desarrollo backend con TypeScript, Node.js y bases de datos.  
 
 📚 **Actualmente aprendiendo...**  
 - **Backend**: NestJS, Express, Prisma, PostgreSQL y MongoDB.  

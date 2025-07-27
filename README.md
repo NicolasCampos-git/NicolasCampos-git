@@ -22,7 +22,10 @@ Programando desde hace años, pero de manera constante desde 2023. Evolucioné d
 - Autodidacta en bases de datos, herramientas tecnológicas y soluciones con IA.  
 
 🎲 **Dato curioso:**  
-En mi tiempo libre disfruto personalizando mi entorno de trabajo en Debian. 🐧
+En mi tiempo libre disfruto personalizando mi entorno de trabajo en Debian. 🐧  
+¡Y soy fan de Gundam Wing! Mira este GIF:  
+![Gundam Wing GIF](<img width="400" height="291" alt="imagen" src="https://github.com/user-attachments/assets/7b710583-6231-4def-be93-929451807e01" />
+)
 
 ## 🖥️ Herramientas que uso
 
